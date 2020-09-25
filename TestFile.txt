@@ -1,4 +1,8 @@
+09/24/2020
 This is a file test. 
 I'm testing the 2nd part of my tutorial that consists of checking out a file from this remote repository Github to local repository. 
 And from local repository to eclipse for modification. 
 After modification done, I will go back to the checkin process i.e perform the Add-Commit-Push actions. 
+09/25/2020
+I pulled the file from remote repository to my local system. I perform some editions in from my eclipse. 
+Now I am going to go through the checkin process in the remote repository. 

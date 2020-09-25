@@ -1,0 +1,31 @@
+[INFO ] 2020-09-22 04:17:28.830 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 04:17:28.909 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 07:44:59.335 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 07:44:59.409 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 10:50:38.535 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 10:50:38.619 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 10:51:51.426 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 10:51:51.496 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 10:55:12.361 [main] TC_LoginTest_001 - Username is enterred
+[INFO ] 2020-09-22 10:55:12.449 [main] TC_LoginTest_001 - Password is enterred
+[INFO ] 2020-09-22 10:55:12.861 [main] TC_LoginTest_001 - This is the right title
+[DEBUG] 2020-09-22 10:55:12.862 [main] TC_LoginTest_001 - To debug the code
+[ERROR] 2020-09-22 10:55:12.862 [main] TC_LoginTest_001 - There is an error in the code
+[INFO ] 2020-09-22 10:55:21.067 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 10:55:21.137 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 10:59:45.917 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 10:59:46.032 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 16:03:26.221 [main] TC_LoginTest_001 - Username is enterred
+[INFO ] 2020-09-22 16:03:26.343 [main] TC_LoginTest_001 - Password is enterred
+[INFO ] 2020-09-22 16:03:27.088 [main] TC_LoginTest_001 - This is the right title
+[DEBUG] 2020-09-22 16:03:27.089 [main] TC_LoginTest_001 - To debug the code
+[ERROR] 2020-09-22 16:03:27.089 [main] TC_LoginTest_001 - There is an error in the code
+[INFO ] 2020-09-22 16:03:35.319 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 16:03:35.426 [main] TC_LoginTest_001 - password provided
+[INFO ] 2020-09-22 18:30:06.597 [main] TC_LoginTest_001 - Username is enterred
+[INFO ] 2020-09-22 18:30:06.676 [main] TC_LoginTest_001 - Password is enterred
+[INFO ] 2020-09-22 18:30:07.120 [main] TC_LoginTest_001 - This is the right title
+[DEBUG] 2020-09-22 18:30:07.120 [main] TC_LoginTest_001 - To debug the code
+[ERROR] 2020-09-22 18:30:07.120 [main] TC_LoginTest_001 - There is an error in the code
+[INFO ] 2020-09-22 18:30:15.296 [main] TC_LoginTest_001 - user name provided
+[INFO ] 2020-09-22 18:30:15.385 [main] TC_LoginTest_001 - password provided

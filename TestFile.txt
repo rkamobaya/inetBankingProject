@@ -1,0 +1,4 @@
+This is a file test. 
+I'm testing the 2nd part of my tutorial that consists of checking out a file from this remote repository Github to local repository. 
+And from local repository to eclipse for modification. 
+After modification done, I will go back to the checkin process i.e perform the Add-Commit-Push actions. 
